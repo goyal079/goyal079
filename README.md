@@ -1,7 +1,7 @@
 - ➰ I enjoy solving problems
 - 🗓️ Learning to code my solutions
 - 🍥 Besides that, I'm a geek about anime.
-- 🇯🇵 Also a Language student
+- 📚 Also a Language student
 - 👐 Yoroshiku!
 
 <!---
