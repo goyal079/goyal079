@@ -22,6 +22,7 @@
 - [Virtual Keyboard- React](https://github.com/thehackingschool/THSCohortG-2021-Himanshu/tree/main/Phase2/Assignment/reactevents)
 
 ### **React UI** -
+- [News Search](https://github.com/goyal079/Shonen-News)
 - [Github Search Engine](https://github.com/goyal079/projects/tree/master/gitfunc)
 - [TODO App](https://github.com/goyal079/Scheduler)(With service workers, Deployed)
 - [E-Store](https://github.com/goyal079/SHIBUI)(With all e-commerce functionalities and admin functional dashboard for admin, Deployed)
